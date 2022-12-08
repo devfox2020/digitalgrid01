@@ -1,4 +1,4 @@
-package com.ruiny;
+package com.ruiny.digitalgrid;
 
 import javax.swing.*;
 import java.awt.*;
