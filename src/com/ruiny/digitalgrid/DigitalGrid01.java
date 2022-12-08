@@ -11,6 +11,7 @@ import java.util.Random;
 public class DigitalGrid01 {
 
     record GenGridResult(String gridText, List<Integer> losts) {}
+    
     static GenGridResult generateText(int cols, int rows, int param1) {
 
         var rnd = new Random();
